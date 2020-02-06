@@ -59,13 +59,13 @@ insight:
   tags: Tags
   untitled: (Untitled)
 unit:
-  word: words
-  time: minutes
+  word: 字
+  time: 分钟
 article:
-  wordcount: Word Count
-  readcount: Read Count
+  wordcount: 字数统计
+  readcount: 阅读时长
   more: Read More
-  comments: Comments
+  comments: 评论
   share: Share
   catalogue: Catalogue
 total:

@@ -22,7 +22,7 @@ menu_icons:
   about: icon-cup-fill
 
 # rss
-rss: /atom.xml
+# rss: /atom.xml
 
 # Site
 site:
@@ -47,11 +47,11 @@ config:
 
 # Pagination
 pagination:
-  number: true
+  number: false
   prev: 
-    alwayShow: true
+    alwayShow: false
   next:
-    alwayShow: true
+    alwayShow: false
 
 # Sidebar
 sidebar: right
@@ -74,7 +74,7 @@ archive_type: 'monthly'
 show_count: true
 
 # Fancybox
-fancybox: false
+fancybox: true
 
 # Search
 search:
@@ -159,7 +159,7 @@ pv:
   busuanzi:
     enable: true  # 不蒜子统计
   leancloud:
-    enable: true  # leancloud统计
+    enable: false  # leancloud统计
     app_id: YGsl7skqfmzo8GOuBeXgEEau-gzGzoHsz  # leancloud <AppID>
     app_key: I9FThItTviHKxazBSKy91EzD  # leancloud <AppKey>
         
