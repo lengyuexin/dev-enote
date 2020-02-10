@@ -327,7 +327,7 @@ toc: true
 1. need和dare既有情态动词用法(need do/dare do),又有实义动词用法(need to do/dare to do)
 2. 肯定句中只可以用实义动词用法
 3. 疑问句和否定句两者皆可
-4. need doing 可表被动
+4. need doing 可表被动，只可以用实义动词用法
 
 **例句:need 疑问句/否定句**
 
@@ -350,9 +350,7 @@ toc: true
 * 我们需要告诉他 We need to tell him.
 
   
-**例句:need 被动**
-
-> 同样的,下列都是肯定句,need依旧是实义动词用法(注意时态)
+**例句:need doing 表被动**
 
 
 * 你的头发需要洗了 Your hair needs washing./Your hair needs to be washed.
