@@ -129,9 +129,9 @@ toc: true
 **例句:表惊讶或怀疑**
 
 1. 你怎么能这么说呢 How can/could you say this/so?
-2. 我怎么能不知道呢 How cann't/couldn't I know ?
+2. 我怎么能不知道呢 How can't /couldn't I know ?
 3. 他怎么能这么做呢 How can/could he do  this/so?
-4. 你为什么就不能告诉我呢 Why cann't/couldn't you tell me?
+4. 你为什么就不能告诉我呢 Why can't /couldn't you tell me?
 
 
 

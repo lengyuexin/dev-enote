@@ -12,8 +12,8 @@ toc: true
 
 > 中文意思中包含[可能]意思的推测可以用can/could/may/might
 
-* cann't/couldn't表示不可能
-* mayn't/mightn't 表示可能不
+* can't/couldn't表示不可能
+* may not/might not 表示可能不
 * 可能性大小比较:could>can>may>might
 
 |            |                     |     |
@@ -65,7 +65,7 @@ toc: true
 19. 你想点什么 What do you want/like to have?/What would you like to have?
 20. 我想点鸭子 I would like to have a duck./I want/like to have a duck.
 21. 他会在干什么呢 What can/could/may/might he be doing?
-22. 你为什么不告诉他呢 Why cann't/couldn't you tell him?
+22. 你为什么不告诉他呢 Why can't/couldn't you tell him?
 23. 这会是什么呢 What can/could/might this be?
 24. 你能回避一下吗 Can/Could/Will/Would you give me a moment? 
 25. 他必须去北京吗 Must he go to BeiJing?/Does he have  to go to BeiJing?
@@ -74,12 +74,12 @@ toc: true
 28. 他应该交什么样的朋友 What kind of friends should he make?/What kind of friends is he supposed  to  make?/How kind of friends ought he to make?
 29. 我该什么时候给你打电话呢 When should I call you?/When ought I to call you?/When am I supposed to you?
 30. 你一定得走吗 Must you go?/Do you have to  go?
-31. 我为什么看不见他 Why cann't I see him? (表能力)
-32. 我为什么不能见他 Why cann't/couldn't/mayn't/mightn't I see him? 
+31. 我为什么看不见他 Why can't I see him? (表能力)
+32. 我为什么不能见他 Why can't/couldn't/may not/might not I see him? 
 33. 我怎么能从这里到天安门 How can I get to Tian An Men from here?
 34. 你会开车吗 Can you drive?
 35. 你能开会儿车吗 Will/Would/Can/Could you drive for a while?
-36. 你为什么学不好英语 Why cann't you learn English well?
+36. 你为什么学不好英语 Why can't you learn English well?
 37. 我在哪里能找到他 Where can I find him?
 38. 你什么时候才能告诉我 When can/could/will/would you tell me?
 39. 这会是真的吗 Can/Could/Might this be true?
