@@ -18,12 +18,12 @@ toc: true
 * 情态动词表过去+have done,条件句退一级,had done
 
 
-||||
-|--|--|--|
-| |虚拟条件句|主句|
-|与将来可能相反|if+主+did/were to/should do|主+would/could/should/might do|
-|与现在相反|if+主+did/were|主+would/could/should/might do|
-|与过去相反|if+主+had done|主+would/could/should/might have done|
+|                |                             |                                       |
+| -------------- | --------------------------- | ------------------------------------- |
+|                | 虚拟条件句                  | 主句                                  |
+| 与将来可能相反 | if+主+did/were to/should do | 主+would/could/should/might do        |
+| 与现在相反     | if+主+did/were              | 主+would/could/should/might do        |
+| 与过去相反     | if+主+had done              | 主+would/could/should/might have done |
 
 
 
@@ -180,4 +180,106 @@ toc: true
 4. 如果我昨天复习了功课，我现在就能答出老师问的问题了 If I had reviewed the lesson yesterday,I could answer the problem the teacher asked.
 5. 如果当初我在学校学习再努力些，我现在就会有一间很舒服的办公室了 If I had studied harder at school,I would have a comfortable office now.
 6. 如果昨天下雨了，现在地面就会是湿的 If it had rained yesterday,the ground would be wet now.
+
+
+
+### 名词性从句的虚拟
+
+> 名词性从句中的虚拟语气不带有自己的时态，统一使用should+do形式(否定句的should不可省)
+
+|            |      |                  |
+| ---------- | ---- | ---------------- |
+| 从句       | 虚拟 | 是否为名词性从句 |
+| 主语从句   | √    | 是               |
+| 宾语从句   | √    | 是               |
+| 表语从句   | √    | 是               |
+| 定语从句   | x    | 否               |
+| 状语从句   | x    | 否               |
+| 同位语从句 | x    | 否               |
+
+#### 主语从句的虚拟标志
+
+1. It's necessary/strange/hard/important that
+2. It's a pity/a shame/no wonder that
+3. It's (about/high) time that,此时可接should+do/过去式  此时should不可省略
+
+#### 宾语从句和表语从句的虚拟标志 
+
+> 同义词可替换使用
+
+**动词**
+
+* 一个坚持 insist
+* 两个命令 order command
+* 三个建议 advise suggest propose
+* 五个要求 demand require request desire ask
+  
+**名词**
+
+* 两个命令 order command
+* 三个建议 advice suggestion proposal
+* 五个要求 demand request desire ask
+
+**特例**
+
+* suggest/suggestion 表暗示的时候，不用虚拟
+* insist 表坚持说的时候，不用虚拟
+
+
+
+
+
+#### 翻译作业/参考答案(名词性从句)
+
+> 无明显时间标志，可用一般现在时表示平常都这么做的，也可用一般过去时表示之前做的
+
+**宾语从句虚拟**
+1. 老师坚持要我们每天学英语 Our teacher insists that we (should) learn English every day.
+2. 他妈妈命令他每天晚上10点前睡觉 His mather orders that he (should) sleep before 10pm every day.
+3. 医生建议他多吃蔬菜 The doctor suggests that he (should) eat more vegetables.
+4. 老板要求我们明天必须完成任务 The boss demanded that we (should) complete the task tomorrow.
+5. 我们建议会议推迟 We suggested that the meeting (should) be put off.
+6. 他们坚持这个小孩跟他们一起去  They insisted that the kid (should) go with them.
+
+---
+
+
+**不用虚拟的情况**
+
+
+1. 他的口音表明他来自湖南 His access suggests that he is from Hunan.
+2. 他的沉默代表他同意了我的决定 His silence suggested that he agreed with my decision.
+3. 他坚称做早操对身体有好处 He insists that doing morning exercise is good  for health.
+4. 他坚持说他没做错 He insisted that he did nothing wrong.
+
+---
+
+**表语从句虚拟**
+
+> 无明显时间标志，可用一般现在时表示平常都这么做的，也可用一般过去时表示之前做的
+
+1. 他妈妈命令他每天晚上10点前睡觉 His mather's order is that he (should) sleep before 10pm every day.
+2. 医生建议他多吃蔬菜 The docter's advice is that he (should) eat more vegetables.
+3. 老板要求我们明天必须完成任务 The boss's require is  that we should complete the task tomorrow.
+4. 我们建议会议推迟 Our suggestion is that the meeting (should) be put off.
+
+---
+
+**主语从句虚拟**
+
+1. 掌握一门外语对我们很重要 It's important that  we (should) learn a foreign language.
+2. 很奇怪他居然拒绝了来这个party It's strange that he  (should) refuse to  come to this party.
+3. 我们每天刷牙是必须的  It's necessary that we  (should) brush our teeth every day.
+4. 重要的是我们要照顾好病人 It's important that  we (should) take good care of our patients.
+5. 我们有必要饭后散步  It's necessary that we  (should)  go for a walk after  the dinner.
+6. 你错过这次机会真可惜   It's a pity that you  (should)  miss this chance.
+7. 他没通过这次考试真丢人  It's a shame that he  (should) fail  the exam.
+8. 怪不得他不想来  It's no wonder that he  shouldn't want to come .
+9.  我们该睡觉了  It's (about/high)time that we  should  go to bed/go to sleep/sleep.
+10. 该睡觉了   It's time to  go to bed/go to sleep/sleep.
+ 	
+	
+		
+
+
 
