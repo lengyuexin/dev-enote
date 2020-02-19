@@ -370,16 +370,16 @@ toc: true
 #### 状态*12
 
 1. 他是一个老师吗？ Is he a teacher?
-2. 他为什么不是个老师？Why is he a teacher?
+2. 他为什么不是个老师？Why isn't he a teacher?
 3. 他怎么是个老师呢？How is he a teacher?
 4. 他不是一个老师吗？ Isn't he a teacher?
-5. 他为什么不不是个老师？Why isn't he a teacher?
+5. 他为什么不是个老师？Why isn't he a teacher?
 6. 他怎么不是个老师呢？How isn't he a teacher?
 7. 他以前是一个老师吗？ Was he a teacher?
-8. 他以前为什么不是个老师？Why was he a teacher?
+8. 他以前为什么不是个老师？Why wasn't he a teacher?
 9.  他以前怎么是个老师呢？How was he a teacher?
 10. 他以前不是一个老师吗？ wasn't he a teacher?
-11. 他以前为什么不不是个老师？Why wasn't he a teacher?
+11. 他以前为什么不是个老师？Why wasn't he a teacher?
 12. 他以前怎么不是个老师呢？How wasn't he a teacher?
 
 
@@ -484,7 +484,7 @@ toc: true
 
 **单独使用不带动词:表示惊讶或怀疑**
 
-* How beautiful she is! 她多漂亮啊！
+* How are you here? 你怎么会在这里？
 * How is she beautiful? 她怎么会漂亮呢？
 
 
