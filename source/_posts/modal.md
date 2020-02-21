@@ -49,7 +49,7 @@ toc: true
 **系语部分=时态或情态动词+系动词**
   
 1. 他在北京 He does+be in BeiJing=>He is in BeiJing
-2. 他昨天在北京 He did+be in BeiJing=>He was in BeiJing
+2. 他昨天在北京 He did+be in BeiJing yesterday.=>He was in BeiJing yesterday.
 3. 他将在北京  He be going to +be in BeiJing=>He is going to be in BeiJing
 4. 他正在在北京  He be doing+be in BeiJing=>He is being  in BeiJing
 5. 他已经在北京两年了  He have/has done+be in BeiJing for 2 years =>He has been in BeiJing for 2 years.

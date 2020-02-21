@@ -66,7 +66,7 @@ toc: true
 20. 我想点鸭子 I would like to have a duck./I want/like to have a duck.
 21. 他会在干什么呢 What can/could/may/might he be doing?
 22. 你为什么不告诉他呢 Why can't/couldn't you tell him?
-23. 这会是什么呢 What can/could/might this be?
+23. 这会是什么呢 What can/could/might/may this be?
 24. 你能回避一下吗 Can/Could/Will/Would you give me a moment? 
 25. 他必须去北京吗 Must he go to BeiJing?/Does he have  to go to BeiJing?
 26. 那个高个子男人会是谁呢 Who can/could/may/might that tall men be?

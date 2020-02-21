@@ -96,7 +96,7 @@ toc: true
 **would have done**
 
 1.  我本来会告诉你的，但是你没问我 I would have told you,but you didn't ask me.
-2.  他本来会留下来的，可是你没说 He would have stayed ,but you didn't ask him to/.
+2.  他本来会留下来的，可是你没说 He would have stayed ,but you didn't ask him to.
 3.  我本来会很开心的，可是你没在 I would have been happy,but you weren't here.
 4.  他们本来会卖很多的，可是城管来了 They would have sold a lot ,but the chengguan came.
 
