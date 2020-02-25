@@ -62,15 +62,15 @@ toc: true
 
 **有从句**
 
-1. 如果你没起那么晚的话，你本来该完成作业的 You got up so late,or/otherwise you should have finished your homework.
-2. 如果我昨天早到些，那个孩子是可以被救的 I didn't get  there earlier yesterday,or/otherwise that kid could have been saved.
-3. 如果你早告诉我，我当时不会对他那么生气的 You didn't told  me earlier,or/otherwise I wouldn't have been so angry with him.
-4. 如果我早知道他是这种人，我不会帮他的 I didn't know  that he was this kind of person,or/otherwise I  wouldn't have helped him.
-5. 如果我有钱的话，我可能会买个手机 I don't have any money,or/otherwise I might buy a phone.
-6. 如果他现在在这的话，我们就能告诉他这个好消息 He isn't here now,or/otherwise we could tell him this good news.
-7. 如果我是你的话，我不会那样做的 I amn't you,or/otherwise I wouldn't do that.
-8. 如果我有个哥哥的话，我就能向他请求帮助 I don't have a brother,or/otherwise I could ask him for help.
-9.  如果明天下雨，我们就取消课程 It  can't/couldn't rain tomorrow,or/otherwise we would call off the class.
+1. 你起晚了，要不然你本来该完成作业的 You got up so late,or/otherwise you should have finished your homework.
+2. 我昨天没有早到，要不然那个孩子是可以被救的 I didn't get  there earlier yesterday,or/otherwise that kid could have been saved.
+3. 你没早告诉我，要不然我当时不会对他那么生气的 You didn't told  me earlier,or/otherwise I wouldn't have been so angry with him.
+4. 我之前并不知道他是这种人，要不然我不会帮他的 I didn't know  that he was this kind of person,or/otherwise I  wouldn't have helped him.
+5. 我没有钱，要不然我可能会买个手机 I don't have any money,or/otherwise I might buy a phone.
+6. 他现在不在这，要不然我们就能告诉他这个好消息 He isn't here now,or/otherwise we could tell him this good news.
+7. 我不是你，要不然我不会那样做的 I amn't you,or/otherwise I wouldn't do that.
+8. 我没有哥哥，要不然我就能向他请求帮助 I don't have a brother,or/otherwise I could ask him for help.
+9.  明天不下雨，要不然我们就取消课程 It  can't/couldn't rain tomorrow,or/otherwise we would call off the class.
 10. 我昨天病了，要不然，我是能赶过来的 I was ill yesterday,or/otherwise I could have made it here.
 11. 他昨天告诉了我你的生日，否则，我什么都不知道 He told me about your birthday yesterday,or/otherwise I wouldn't have known nothing.
 12. 他快没钱了，不然他不会去找工作 He was running out of money,or/otherwise He wouldn't have looked for  a job.
@@ -112,7 +112,7 @@ toc: true
 
 
 
-  **使用if only 要是**
+  **使用if only 要是...就好了**
 
 1. 要是我知道他住哪就好了 If only I knew where he lived.
 2. 要是我听了你的建议就好了 If only I had taken your advice.
@@ -201,7 +201,7 @@ toc: true
 
 1. It's necessary/strange/hard/important that
 2. It's a pity/a shame/no wonder that
-3. It's (about/high) time that,此时可接should+do/过去式  此时should不可省略
+3. It's (about/high) time that,should+do ,should不可省略
 
 #### 宾语从句和表语从句的虚拟标志 
 
@@ -249,8 +249,7 @@ toc: true
 
 1. 他的口音表明他来自湖南 His access suggests that he is from Hunan.
 2. 他的沉默代表他同意了我的决定 His silence suggested that he agreed with my decision.
-3. 他坚称做早操对身体有好处 He insists that doing morning exercise is good  for health.
-4. 他坚持说他没做错 He insisted that he did nothing wrong.
+3. 他坚持说他没做错 He insisted that he did nothing wrong.
 
 ---
 
@@ -276,7 +275,6 @@ toc: true
 7. 他没通过这次考试真丢人  It's a shame that he  (should) fail  the exam.
 8. 怪不得他不想来  It's no wonder that he  shouldn't want to come .
 9.  我们该睡觉了  It's (about/high)time that we  should  go to bed/go to sleep/sleep.
-10. 该睡觉了   It's time to  go to bed/go to sleep/sleep.
  	
 	
 		
