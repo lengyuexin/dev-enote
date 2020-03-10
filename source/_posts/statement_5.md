@@ -94,7 +94,7 @@ toc: true
 44. 我有个飞机要赶 I have a plane to catch.
 45. 我有个会议要出席I have a metting to attend.
 46. 我有事要告诉你 I have something to tell you.
-47. 我有问题要问 I have some questions  to ask yous.
+47. 我有问题要问 I have some questions  to ask you.
 48. 我有机会去北京 I have a chance to go to BeiJing.
 49. 我没钱给你 I don't have money to give you.
 50. 我没时间陪孩子 I don't have time to be with my kids.
@@ -139,7 +139,7 @@ toc: true
 81. 永远不要跟陌生人说话 Never talk to strangers.
 82. 别害羞 Don't be shy.
 83. 别把我丢在这啊 Don't leave me here.
-84. 永远别在背后说别人坏话 Don't speak ill of others behind them.
+84. 永远别在背后说别人坏话 Never speak ill of others behind .
 85. 别相信他 Don't believe him.
 86. 别担心 Don't worry.
 87. 我开玩笑的，别那么认真 I am kidding,don't be  so serious.

@@ -26,12 +26,12 @@ toc: true
 10. 他给我看了他的票 He showed me his ticket.
 11. 他给我指了路 He showed me the way.
 12. 他给我保证了 He made me his promise./He	gave	me	his word.
-13. 他教过我们英语 He taught me English.
+13. 他教过我们英语 He taught us English.
 14. 他教训了他一顿 He taught him a lesson.
 15. 他付了我很多钱 He paid me a lot of money.
 16. 他扔给我一本书 He threw me a book.
 17. 他问了我一个问题 He asked me a question.
-18. 他把车卖给了他朋友 He sold his friend  the car.
+18. 他把车卖给了他朋友 He sold his friend  the car./He sold the car to his friend.
 19. 他把钱还给我了 He returned me the money.
 20. 他把那本书递给了我 He passed me that book.
 21. 他把那辆车送给了我 He gave me that car.
@@ -47,7 +47,7 @@ toc: true
 31. 他给我画了一幅画 He drew me a picture.
 32. 他给我叫了辆出租车 He called me  a taxi. 
 33. 他祝你好运 He wished you good luck.
-34. 他为我做了很多事 He did me a many things.
+34. 他为我做了很多事 He did me  many things.
 35. 他给我惹了很多麻烦 He made me much trouble.
 36. 他帮了我个忙 He did me a favour.
 

@@ -15,7 +15,7 @@ toc: true
 2. 他已经离开了 He has  left.
 3. 他肯定在家 He must be at home.
 4. 我需要你帮我把那本书拿过来 I need you to  bring me  that book.
-5. 别把头发染成黄色 Don't s dye your hair yellow.
+5. 别把头发染成黄色 Don't  dye your hair yellow.
 6. 我本来可以按时到的 I could have got here on time.
 7. 我不会告诉你的 I won't tell you.
 8. 别撒谎 Don't lie.

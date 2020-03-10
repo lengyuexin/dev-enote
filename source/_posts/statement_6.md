@@ -52,7 +52,7 @@ toc: true
 1. 都别动 Everybody don't move./Nobody move.
 2. 来个人告诉我 Someone tell me.
 3. 都进来 Everyone come in.
-4. 都站起来 EveryBody stand up.
+4. 都站起来 Everybody stand up.
 5. 来人叫救护车 Somebody call an ambulance.
 
 

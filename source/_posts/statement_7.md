@@ -135,7 +135,7 @@ toc: true
 5. 他们不来怎么办 What if they don't come?
 6. 如果有人敲门怎么办 What if someone knocks on the door?
 7. 冰箱里要是没有食物怎么办 What if there is no food in the freezer?
-8. 如果没人来怎么办 What if don't nobody comes ?
+8. 如果没人来怎么办 What if  nobody comes ?
 9. 他要不给我打电话怎么办 What if he doesn't call me?
 
 

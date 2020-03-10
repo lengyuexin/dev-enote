@@ -21,7 +21,7 @@ toc: true
 6. 我不敢吃太多 I daren't eat too much./I don't dare to eat too much.	
 7. 我找不到我的手机了 I can't find my phone.
 8. 你一定要听老师的话 You must listen to your teacher. 
-9.  你不应该相信他的 You should/shall not have  believed  him.
+9.  你不应该相信他的 You should not have  believed  him.
 10. 他可能在家 He could/may/might be at home.
 
 ---
@@ -76,7 +76,7 @@ toc: true
 47. 我睡不着 I can't fall asleep.
 48. 我做不到 I can't do it.
 49. 我看不到 I can't see it.
-50. 你昨天就该告诉我的 You shall/should/were supposed to have told me yesterday.
+50. 你昨天就该告诉我的 You should  have told me yesterday.
 
 ----
 
@@ -88,7 +88,7 @@ toc: true
 54. 他一定已经听说过这事了 He must have heard of the thing.
 55. 你原本不需要向他道歉的 You needn't have apologized to him.
 56. 我本来不会买这个手机的 I wouldn't have bought this phone.
-57. 他会已经回来了吗 Can/might he have come back?
+57. 他会已经回来了吗 Can/Might he have come back?
 58. 你当时应该买那辆车的 You should have bought that car.
 59. 他现在可能已经知道这件事了  He may/might have known the thing.
 60. 我本来可以做完作业的 I could have finished my homework.
@@ -98,7 +98,7 @@ toc: true
 
 61. 你的手机一定已经被偷了  Your phone must have been stolen.
 62. 他本来不会死的  He wouldn't have died .
-63. 他不可能看到我了 He can't have seen me again.
+63. 他不可能看到我了 He can't have seen me .
 64. 我本来会帮你的 I would have helped you.
 65. 你不需要买这么多东西的 You needn't have bought  so many  things.
 66. 他应该已经到北京了 He may/might have got to BeiJing.
@@ -109,7 +109,7 @@ toc: true
 		
 ----
 
-71.  你不可能去过北京 You can't have been to BeiJing.
+71. 你不可能去过北京 You can't have been to BeiJing.
 72. 他本来会原谅你的   He could have forgiven you.
 73. 这个问题本来能被解决的 The problem could have been solved.
 74. 你不需要经过他同意的 You needn't have asked for his permission.
@@ -136,5 +136,5 @@ toc: true
 91. 他一定把这事告诉警察了 He must have told the police the thing.
 92. 你不应该给他打电话的 You shouldn't have called him.
 93. 他不可能被开除了 He can't have been fired.
-94. 他会去了哪家医院呢 Witch hospital can/may/might he have been to?
+94. 他会去了哪家医院呢 Which hospital can/may/might he have gone to?
 95. 我本来完成不了作业的 I couldn't have finished my homework.
