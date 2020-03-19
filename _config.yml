@@ -5,8 +5,8 @@
 # Site
 title: enote
 subtitle: 'enote'
-description: '治愈系英语学习笔记'
-keywords: '时态,被动语态,现在完成时'
+description: '英语学习笔记'
+keywords: '时态,被动语态,现在完成时,陈述句,虚拟语气'
 author: '高芊'
 language: 'zh-CN'
 timezone: ''
@@ -101,6 +101,7 @@ deploy:
   type: "git"
   repo: "git@github.com:lengyuexin/lengyuexin.github.io.git"
   branch: master
+
 
 
 

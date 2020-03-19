@@ -1,7 +1,7 @@
 ---
 title: 被动语态
 categories:
-  - 七大体系
+  - 英语基础
 tags:
   - 被动语态
 toc: true 

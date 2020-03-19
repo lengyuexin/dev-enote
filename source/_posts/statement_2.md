@@ -1,7 +1,7 @@
 ---
 title: 陈述句(主谓间宾+直宾)
 categories:
-  - 七大体系
+  - 英语基础
 tags:
   -  陈述句
 toc: true 

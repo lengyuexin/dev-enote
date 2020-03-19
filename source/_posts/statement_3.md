@@ -1,7 +1,7 @@
 ---
 title: 陈述句(主谓宾+宾补)
 categories:
-  - 七大体系
+  - 英语基础
 tags:
   -  陈述句
 toc: true 
