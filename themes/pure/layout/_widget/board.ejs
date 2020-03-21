@@ -1,5 +1,37 @@
 <div class="widget">
- <!--  <a href="http://127.0.0.1:3000/#/checkWrite" style="font-size:16px;"  >写文章</a> -->
-   <span  style="font-size:16px;" >  一期一会</span>
+  <!--  <a href="http://127.0.0.1:3000/#/checkWrite" style="font-size:16px;"  >写文章</a> -->
+  <!-- <span  style="font-size:16px;" >  一期一会</span> -->
+
+  <select id="enote-language-switch">
+    <option value="zh-CN">zh-CN</option>
+    <option value="jap">jap</option>
+    <option value="en">en</option>
+  </select>
+
 </div>
 
+
+
+
+<script>
+  var $els = document.getElementById("enote-language-switch");
+
+  $els.onchange = function (e) {
+
+    e = e || window.event;
+
+    if (e && e.target) {
+      var link = e.target.value;
+
+      if (link === "zh-CN") {
+        window.location.href = `https://lengyuexin.github.io`
+      } else if (link === "jap") {
+        window.location.href = `https://lengyuexin.github.io/enote-ja`
+      } else if (link === "en") {
+        window.location.href = `https://lengyuexin.github.io/enote-en`
+      }
+    }
+
+  }
+
+</script>

@@ -1,4 +1,58 @@
 <main class="main" role="main">
   <%- partial('_partial/archive-list', {index: true}) %>
   <%- partial('_partial/pagination', {type: 'page'}) %> 
+  <audio id='enote-music-play' autoPlay loop  ></audio>
 </main>
+
+  <script>
+
+ 
+  var $enoteMusicPlay = document.getElementById("enote-music-play");
+      $enoteMusicPlay.src=changeMusic();
+      function changeMusic() {
+        var musicList = ['All the Places', 'Dark Side', 'Dream It Possible', 'I Need You', 'Miracle', 'Such a Fool']
+        var index = parseInt(Math.random() * 6)
+        return `https://lengyuexin.github.io/enote-song/music/${musicList[index]}.m4a`
+      }
+
+   
+
+    
+  </script>
+
+
+<script>
+  
+
+
+Function.prototype.getMultiLine = function () {
+    var lines = new String(this);
+    lines = lines.substring(lines.indexOf("/*") + 3, lines.lastIndexOf("*/"));
+    return lines;
+}
+
+var string = function () {
+
+
+    /*
+ 
+ .----------------. .-----------------..----------------. .----------------. .----------------. 
+| .--------------. | .--------------. | .--------------. | .--------------. | .--------------. |
+| |  _________   | | | ____  _____  | | |     ____     | | |  _________   | | |  _________   | |
+| | |_   ___  |  | | ||_   \|_   _| | | |   .'    `.   | | | |  _   _  |  | | | |_   ___  |  | |
+| |   | |_  \_|  | | |  |   \ | |   | | |  /  .--.  \  | | | |_/ | | \_|  | | |   | |_  \_|  | |
+| |   |  _|  _   | | |  | |\ \| |   | | |  | |    | |  | | |     | |      | | |   |  _|  _   | |
+| |  _| |___/ |  | | | _| |_\   |_  | | |  \  `--'  /  | | |    _| |_     | | |  _| |___/ |  | |
+| | |_________|  | | ||_____|\____| | | |   `.____.'   | | |   |_____|    | | | |_________|  | |
+| |              | | |              | | |              | | |              | | |              | |
+| '--------------' | '--------------' | '--------------' | '--------------' | '--------------' |
+ '----------------' '----------------' '----------------' '----------------' '----------------' 
+
+                                                    
+    
+    */
+
+}
+
+window.console.log(string.getMultiLine());
+</script>
