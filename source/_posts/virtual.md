@@ -10,11 +10,7 @@ toc: true
 ![虚拟语气](/img/虚拟语气.png)
 
 
-
-
-
 ### 主从句都相反
-
 
 
 |                |                             |                                       |
@@ -67,12 +63,11 @@ toc: true
 6. 他现在不在这，要不然我们就能告诉他这个好消息 He isn't here now,or/otherwise we could tell him this good news.
 7. 我不是你，要不然我不会那样做的 I amn't you,or/otherwise I wouldn't do that.
 8. 我没有哥哥，要不然我就能向他请求帮助 I don't have a brother,or/otherwise I could ask him for help.
-9.  明天不下雨，要不然我们就取消课程 It  can't/couldn't rain tomorrow,or/otherwise we would call off the class.
-10. 我昨天病了，要不然，我是能赶过来的 I was ill yesterday,or/otherwise I could have made it here.
-11. 他昨天告诉了我你的生日，否则，我什么都不知道 He told me about your birthday yesterday,or/otherwise I would  have known nothing.
-12. 他快没钱了，不然他不会去找工作 He was running out of money,or/otherwise He wouldn't have looked for  a job.
-13. 他起晚了，不然他就能赶上火车了 He got up late,or/otherwise he could have caught the train.
-14. 现如今科技发达，不然我们甚至不能联系亲戚 Nowadays,the technology is developed ,or/otherwise we  couldn't even  contact our  relatives.
+9.  我昨天病了，要不然，我是能赶过来的 I was ill yesterday,or/otherwise I could have made it here.
+10. 他昨天告诉了我你的生日，否则，我什么都不知道 He told me about your birthday yesterday,or/otherwise I would  have known nothing.
+11. 他快没钱了，不然他不会去找工作 He was running out of money,or/otherwise He wouldn't have looked for  a job.
+12. 他起晚了，不然他就能赶上火车了 He got up late,or/otherwise he could have caught the train.
+13. 现如今科技发达，不然我们甚至不能联系亲戚 Nowadays,the technology is developed ,or/otherwise we  couldn't even  contact our  relatives.
 
 **无从句**
 
@@ -142,17 +137,17 @@ toc: true
 
 1. 我宁愿扔了它也不会给你 I would rather throw it than give it to you.
 2. 我宁愿告诉所有人也不会告诉他 I would rather tell everyone than tell him.
-3. 我宁愿呆在家也不会跟你出去 I would rather stay at home than go out with you.
+3. 我宁愿待在家也不会跟你出去 I would rather stay at home than go out with you.
 4. 他宁愿死也不会背叛他的祖国 He would rather die than betray his country.
 
 **as if/as though  even if/even though**
 
 > as if和as though等价,表好像;even if和even though等价,表即使/就算
 1. 他看起来像个艺术家 He looks as if he were an artist.
-2. 他英语说的这么流利好像他在美国呆过 He speaks English so fluently as if He had been in America. 
+2. 他英语说的这么流利好像他在美国待过 He speaks English so fluently as if he had been in America. 
 3. 他英语学习这么努力好像要去美国 He studies English so hard as if he would go to America. 
 4. 她很喜欢这个宝宝就好像是她自己的孩子 She  likes the baby so much as if the baby were hers.
-5. 我记得这事的全部就好像发生在昨天一样 I remember the whole thing as if it had happened yesterday.
+5. 我记得这事的全部就好像发生在昨天一样 I remember the whole thing as if it had happened just yesterday.
 6. 他们聊天的样子好像是多少年的朋友了 They talked as if they had been friends for many years.
 7. 他看起来好像醉了 He looks as if he were drunk.
 
@@ -160,7 +155,7 @@ toc: true
 
 **主从句都相反-将来**
 1. 就算我知道我也不会告诉你 Even if I knew I wouldn't tell you.  
-2. 就算我要去我也不会带上你 Even if I were to  I wouldn't take you with me.
+2. 就算我要去我也不会带上你 Even if I should go  I wouldn't take you with me.
 
 
 
@@ -243,7 +238,7 @@ toc: true
 **不用虚拟的情况**
 
 
-1. 他的口音表明他来自湖南 His access suggests that he is from Hunan.
+1. 他的口音表明他来自湖南 His accent suggests that he is from Hunan.
 2. 他的沉默代表他同意了我的决定 His silence suggested that he agreed with my decision.
 3. 他坚持说他没做错 He insisted that he did nothing wrong.
 
@@ -254,8 +249,8 @@ toc: true
 > 无明显时间标志，可用一般现在时表示平常都这么做的，也可用一般过去时表示之前做的
 
 1. 他妈妈命令他每天晚上10点前睡觉 His mather's order is that he (should) sleep before 10pm every day.
-2. 医生建议他多吃蔬菜 The docter's advice is that he (should) eat more vegetables.
-3. 老板要求我们明天必须完成任务 The boss's require is  that we should complete the task tomorrow.
+2. 医生建议他多吃蔬菜 The doctor's advice is that he (should) eat more vegetables.
+3. 老板要求我们明天必须完成任务 The boss's request is  that we (should) complete the task tomorrow.
 4. 我们建议会议推迟 Our suggestion is that the meeting (should) be put off.
 
 ---
@@ -266,11 +261,11 @@ toc: true
 2. 很奇怪他居然拒绝了来这个party It's strange that he  (should) refuse to  come to this party.
 3. 我们每天刷牙是必须的  It's necessary that we  (should) brush our teeth every day.
 4. 重要的是我们要照顾好病人 It's important that  we (should) take good care of our patients.
-5. 我们有必要饭后散步  It's necessary that we  (should)  go for a walk after  the dinner.
-6. 你错过这次机会真可惜   It's a pity that you  (should)  miss this chance.
+5. 我们有必要饭后散步  It's necessary that we  (should)  go for a walk after   dinner.
+6. 你错过这次机会真可惜   It's a pity that you  (should)  miss the chance.
 7. 他没通过这次考试真丢人  It's a shame that he  (should) fail  the exam.
 8. 怪不得他不想来  It's no wonder that he  shouldn't want to come .
-9.  我们该睡觉了  It's (about/high)time that we  should  go to bed/go to sleep/sleep.
+9.  我们该睡觉了  It's (about/high)time that we  should  go to bed.
  	
 	
 		

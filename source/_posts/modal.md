@@ -257,7 +257,7 @@ toc: true
 
 
 * 我一定要在今天完成它吗 Do I have to finish  it today?/Must I finish it today?
-* 我一定要去看医生吗 Do I have to see a docter?/Must I go to see a doctor?
+* 我一定要去看医生吗 Do I have to see a doctor?/Must I go to see a doctor?
 * 他一定要现在就走吗 Does he have to leave now?Must	he leave now?
 * 我们一定要明天回去吗 Do we have to go back tomorrow?/Must	we	go back tomorrow?
 * 我们一定不能只考虑我们自己 We mustn't only think of ourselves.
