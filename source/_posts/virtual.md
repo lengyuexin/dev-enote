@@ -7,15 +7,14 @@ tags:
 toc: true 
 ---
 
+![虚拟语气](/img/虚拟语气.png)
 
 
-> 虚拟语气，用于描述与事实相反的事
+
 
 
 ### 主从句都相反
 
-* 情态动词表现在和将来+动原,条件句退一级,与现在相反did/were,与将来可能相反有些特别did/were to/should do
-* 情态动词表过去+have done,条件句退一级,had done
 
 
 |                |                             |                                       |
@@ -27,7 +26,7 @@ toc: true
 
 
 
-#### 翻译作业/参考答案(主从句都相反)
+
 
 **对过去的虚拟**
 1. 如果你没起那么晚的话，你本来该完成作业的 If you hadn't got up so late,you should have finished your homework.
@@ -54,11 +53,9 @@ toc: true
 
 ### 只与主句相反
 
-> 从句陈述事实，随后加上否则/要不然这样的词作为连接，最后加上主句 
+> 从句陈述事实，随后加上否则/要不然这样的词作为连接，最后加上主句 。有从句，则使用or或者otherwise作为主从句之间的连接,若没有从句,用without或but for
 
-* 有从句，则使用or或者otherwise作为主从句之间的连接,若没有从句,用without或but for
 
-#### 翻译作业/参考答案(只与主句相反)
 
 **有从句**
 
@@ -72,19 +69,19 @@ toc: true
 8. 我没有哥哥，要不然我就能向他请求帮助 I don't have a brother,or/otherwise I could ask him for help.
 9.  明天不下雨，要不然我们就取消课程 It  can't/couldn't rain tomorrow,or/otherwise we would call off the class.
 10. 我昨天病了，要不然，我是能赶过来的 I was ill yesterday,or/otherwise I could have made it here.
-11. 他昨天告诉了我你的生日，否则，我什么都不知道 He told me about your birthday yesterday,or/otherwise I wouldn't have known nothing.
+11. 他昨天告诉了我你的生日，否则，我什么都不知道 He told me about your birthday yesterday,or/otherwise I would  have known nothing.
 12. 他快没钱了，不然他不会去找工作 He was running out of money,or/otherwise He wouldn't have looked for  a job.
 13. 他起晚了，不然他就能赶上火车了 He got up late,or/otherwise he could have caught the train.
 14. 现如今科技发达，不然我们甚至不能联系亲戚 Nowadays,the technology is developed ,or/otherwise we  couldn't even  contact our  relatives.
 
 **无从句**
 
-1. 要是没有阳光，我们的星球上就不会有生命 Without/But for sunlight,there would be no life on our plant.
-2. 要不是你的帮助，我可能完成不了我的作业 Without/But for  your help,I might not have  finished my homework.
-3. 要不是你的支持，我不会撑到现在 Without/But for  your support, I wouldn't have made it to now.
-4. 没有水我们生存不了 Without/But for  water,we couldn't survive.
-5. 没有他，她做不了任何事情 Without /But for him,she could do nothing.
-6. 没有你我的生活将没有意义 Without /But for you,my life would be meaningless.
+1. 要是没有阳光，我们的星球上就不会有生命 Without  sunlight,there would be no life on our planet.
+2. 要不是你的帮助，我可能完成不了我的作业  But for  your help,I might not have  finished my homework.
+3. 要不是你的支持，我不会撑到现在 But for  your support, I wouldn't have made it to now.
+4. 没有水我们生存不了 Without water,we couldn't survive.
+5. 没有他，她做不了任何事情 Without him,she could do nothing.
+6. 没有你我的生活将没有意义 Without you,my life would be meaningless.
 
 
 ### 只与从句相反
@@ -92,7 +89,7 @@ toc: true
 > 主句可有可无，在对将来可能发生的情况进行虚拟，从句的结构是could/would/should/might +do
 
 
-#### 翻译作业/参考答案(只与从句相反)
+
 
 **使用wish/How I wish 我(多/真)希望**
 
@@ -163,7 +160,7 @@ toc: true
 
 **主从句都相反-将来**
 1. 就算我知道我也不会告诉你 Even if I knew I wouldn't tell you.  
-2. 就算我要去我也不会带上你 Even if I gone/were to/should go I wouldn't take you with me.
+2. 就算我要去我也不会带上你 Even if I were to  I wouldn't take you with me.
 
 
 
@@ -197,15 +194,14 @@ toc: true
 | 状语从句   | x    | 否               |
 | 同位语从句 | x    | 否               |
 
-#### 主语从句的虚拟标志
+**1. 主语从句的虚拟标志**
 
 1. It's necessary/strange/hard/important that
 2. It's a pity/a shame/no wonder that
 3. It's (about/high) time that,should+do ,should不可省略
 
-#### 宾语从句和表语从句的虚拟标志 
+**2. 宾语从句和表语从句的虚拟标志**
 
-> 同义词可替换使用
 
 **动词**
 
@@ -229,11 +225,11 @@ toc: true
 
 
 
-#### 翻译作业/参考答案(名词性从句)
 
-> 无明显时间标志，可用一般现在时表示平常都这么做的，也可用一般过去时表示之前做的
 
 **宾语从句虚拟**
+
+* 无明显时间标志，可用一般现在时表示平常都这么做的，也可用一般过去时表示之前做的
 1. 老师坚持要我们每天学英语 Our teacher insists that we (should) learn English every day.
 2. 他妈妈命令他每天晚上10点前睡觉 His mather orders that he (should) sleep before 10pm every day.
 3. 医生建议他多吃蔬菜 The doctor suggests that he (should) eat more vegetables.

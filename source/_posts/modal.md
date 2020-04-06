@@ -1,5 +1,5 @@
 ---
-title: 情态动词(概述)
+title: 情态动词
 categories:
   - 英语基础
 tags:
@@ -8,13 +8,9 @@ toc: true
 ---
 
 
+![情态动词](/img/情态动词.png)
 
-> 情态动词用于帮助动词表达主语的情感和态度,没有人称和时态变化,一句话中要么有时态,要么有情态动词。
-
-* 情态动词是时表词
-* 情态动词后加动词原型/主系表 现在进行be+doing
-* 疑问句中文流程:疑问词+情态动词+主语+动词
-
+> 情态动词也是时表词，用于帮助动词表达主语的情感和态度,没有人称变化
 
 
 ### be动词时态
@@ -34,7 +30,7 @@ toc: true
 > 先判断是否有动词，有就是主谓宾，没有就是主系表;时态和情态动词有哪个用哪个,没有谓语动词就用be动词。
 
 
-**主谓宾或主系表**
+
 **谓语部分=时态或情态动词+谓语动词**
 
 1. 他吃 He does+eat =>He eats
@@ -61,9 +57,9 @@ toc: true
 
 ### 情态动词分组
 
-**下列分组中并不一定全都是情态动词,划分为一组是因为关联性。**
+> 下列分组中并不一定全都是情态动词,划分为一组是因为关联性。
 
-#### can/could
+**can/could**
 
 |            |                                   |
 | ---------- | --------------------------------- |
@@ -110,7 +106,7 @@ toc: true
 
 * can可用于肯定句的两种特殊情况:理论上不可能,但实际可能 /can+only 存在唯一可能 
 
-1. 经验丰富的老师也有可能出错 Experienced teacher can make mistakes.
+1. 经验丰富的老师也有可能出错 Experienced teachers can make mistakes.
 2. 只能是我的老师        It can only be my teacher. 
 
 
@@ -137,7 +133,7 @@ toc: true
 
 
 
-#### will/would
+**will/would**
 
 
 
@@ -153,7 +149,7 @@ toc: true
 
 **例句:表将要**
 
-> be going to do有计划安排,常翻译为[准备,将要],will强调的是结果,大部分情况下翻译成[会]更合适
+> be going to do有计划安排,常翻译为[准备,将要],will强调的是结果,常翻译为[会]
 
 * 我下个月就30岁了 I will be 30 years old next month.
 * 明天会下雨 It will rain tomorrow.
@@ -193,7 +189,7 @@ toc: true
 
 
 
-#### may/might
+**may/might**
 
 
 |            |                         |
@@ -226,7 +222,7 @@ toc: true
 * 那会是真的吗 Might that be true? 
 * 他也许会告诉他妻子 He may/might tell his wife.
 * 他可能在等我们 He may/might be waiting for us.
-* 你很可能是对的 You may/might well be true.
+* 你很可能是对的 You may/might well be right.
 * 他很可能知道 He may/might well know it.
 
 
@@ -247,7 +243,7 @@ toc: true
 * 我还是去睡觉吧 I may/might as well go to sleep.
 * 还是你开吧 You may/might as well  drive.
 
-#### must  have to
+**must/have to**
 
 
 
@@ -275,13 +271,12 @@ toc: true
 * 他一定错了 He must be wrong.
 * 那个人一定很有钱 That man must have a lot of (lots of) money.
 * 她一定是在看电视 She must be watching TV.
-* 你一定在家 You mush be at home.
+* 你一定在家 You must be at home.
 
 			
 
 
-
-#### shall/should/ought to/be supposed to do
+**shall/should/ought to/be supposed to do**
 
 1. shall 在第一人称疑问句中表征求意见,在第一人称陈述句中表将要,同will
 2. shall在第二三人称陈述句中表命令/警告/承诺/决心等
@@ -291,16 +286,16 @@ toc: true
 
 **例句:shall**
 
-要不要我给你拿把椅子来 Shall I get you a chair.
-我要走了 I will/shall go.
-我们今天晚上做什么呢 What shall we do  tonight?
-我给你打杯水吧 Shall I get you a cup of water?
-我们走吧 Shall we go?
-我们告诉他吧 Shall we tell him?
-你再也不会见到他了 You shall never see him again.
-他一定会被开除的 He shall be  fired.
-他们不能再那么做了 They shalln't  do that again.
-你应该早点来 You shall come  early.
+* 要不要我给你拿把椅子来 Shall I get you a chair?
+* 我要走了 I will/shall go.
+* 我们今天晚上做什么呢 What shall we do  tonight?
+* 我给你打杯水吧 Shall I get you a cup of water?
+* 我们走吧 Shall we go?
+* 我们告诉他吧 Shall we tell him?
+* 你再也不会见到他了 You shall never see him again.
+* 他一定会被开除的 He shall be  fired.
+* 他们不能再那么做了 They shall not  do that again.
+* 你应该早点来 You shall come here  early.
 
 
 **例句:should/ought to/be supposed to do**
@@ -308,11 +303,12 @@ toc: true
 > should完全等于be supposed to do,ought to 更正式 (书面语)
 
 * 我们应该互相帮助 We should/ought to help each other./We are supposed to help each other.
-* 你应该去问老师 You should/ought to ask the teacher./You are supposed to ask the teacher.
-* 我该说什么 What should /ought to I say ?/What am I am supposed to say?
-* 我们应该什么时候过去 When should we go ?/When are we are supposed to go?/When ought we to go ?
-* 他应该买什么 What should he buy?/What is he is supposed to buy?/What ought he to buy?
-* 我们今晚应该在哪见面 Where should we meet tonight?/Where are we are supposed to meet tonight?/Where ought we to meet tonight?
+* 你应该去问老师 You should ask the teacher.
+* 我该说什么 What should I say ?
+* 我们应该什么时候过去 When should we go ?
+* 他应该买什么 What should he buy?
+* 我们今晚应该在哪见面 Where should we meet tonight?
+* 他应该在家 He should be at home.
 
 				
 
@@ -322,7 +318,7 @@ toc: true
 
 
 
-#### need/dare
+**need/dare**
 
 1. need和dare既有情态动词用法(need do/dare do),又有实义动词用法(need to do/dare to do)
 2. 肯定句中只可以用实义动词用法
@@ -335,7 +331,7 @@ toc: true
 * 他需要来这么早吗  Did he need to come so early?/Need he come so early?
 * 他们需要填表吗 Do they need to fill in the form?/Need they fill in the form?
 * 我需要来吗 Do I need to come ?/Need I come ?
-* 他需要这么做吗 Does he need to do this/so? /Need he do this/so?
+* 他需要这么做吗 Does he need to do this? /Need he do this?
 * 你不需要再做它了 You don't need to do it any more./You needn't do it any more.
 * 你不需要来 You don't need to come./You needn't come.
 * 他不需要知道 He doesn't need to know./He needn't know.
@@ -361,20 +357,248 @@ toc: true
 					
 **例句:dare 问句/否定句**
 
-* 你怎么敢这么说 How dare you say this/so?/How do you dare to say this/so?
+* 你怎么敢这么说 How dare you say this?/How do you dare to say this?
 * 你怎么敢吃这个 How dare you eat this?/How do you dare to eat this?
 * 你敢告诉她真相吗 Dare you tell her the truth?/Do you dare to tell her the truth?
 * 他敢一个人去那儿吗 Dare he go there alone?/Does he dare to go there alone?
 * 他不敢说英语 He daren't  speak English./ He doesn't dare to speak English? 
 * 他不敢回答 He daren't answer./He doesn't dare to answer.
 * 他不敢看我 He daren't look at me./He doesn't dare to look at me.
-* 他们不敢不做作业 They daren't not do homework./They don't dare not to do homework.
+* 他们不敢不做作业 They daren't not do the homework./They don't dare not to do the homework.
 
 
 **例句:dare 肯定句**
 
 * 我敢吃这个 I dare to eat this.
 * 我们必须敢想 We must  dare to think.
-* 我们应该敢于说英语 We should /ought to dare to speak English./We are supposed to dare to speak English.
+* 我们应该敢于说英语 We should  dare to speak English.
 * 我敢开车 I dare to drive.
 					
+
+
+
+### 情态动词的时态
+
+
+* 情态动词+do(动原) 表现在或将来
+* 情态动词+be doing 表进行
+* 情态动词+have done 表过去
+
+|||
+|--|--|
+|对过去的推测|对过去的评价|
+|can/can't/may/might/must|could/would/should/needn't|
+
+
+
+
+**must have done**
+1. 他一定已经走了 He must have left.
+2. 你肯定已经看过这部电影了 You must've  watched this movie.
+3. 他们一定已经知道原因了 They must have known the reason.
+4. 你弟弟一定已经告诉你父母我们的事了 Your brother must have told your parents about us.
+5. 这电脑一定已经被修过了 This computer must have been fixed.
+6. 我的手机一定被偷了 My phone must have been stolen.
+7. 他的车一定被卖了 His car must have been sold.
+8. 他一定被找到了 He must have been found.
+
+---
+
+**may/might have done**
+
+
+1.  他们可能已经到北京了 They may/might have got to BeiJing.
+2.  我可能做错了 I may/might have done it  wrong.
+3.  他可能已经睡了 He may/might have gone to bed.
+4.  他可能已经知道了 He may/might have known it.
+5.  我的电脑可能已经被修了 My computer may/might have been fixed.
+6.  我的手机可能已经被偷了 My phone may/might have been stolen.
+7.  他的车可能已经被卖了 His car may/might have been sold.
+8.  他可能已经被找到了 He may/might have been found.
+
+---
+
+**can't have done**
+
+
+
+1.  他不可能买了这款车 He can't have bought the car.
+2.  你不可能已经知道了 You can't have known it.
+3.  他不可能去北京了 He can't have gone to BeiJing.
+4.  他不可能偷了你的钱 He can't have stolen your money.
+5.  这电脑不可能被修过 This computer can't have been fixed.
+6.  我的手机不可能被偷了 My phone can't have been stolen.
+7.  他的车不可能被卖了 His car can't have been sold.
+8.  他不可能被找到了 He can't have been found.
+
+
+---
+
+**can have done**
+
+1.  他会吃了什么呢  What can he have eaten? 
+2.  他会去北京了吗 Can he have gone to BeiJing?
+3.  你会不会已经告诉老师了 Can  you have told your teacher?
+4.  他会去哪了呢  Where can he have gone ?
+5.  这电脑会被修过了吗 Can  this computer have been fixed?
+6.  我的手机可能被偷了吗 Can my phone have been stolen?
+7.  他的车会被卖了吗  Can his car  have been sold?
+8.  他会被找到了吗 Can he have been found?
+
+
+---
+
+**could have done**
+
+
+1.  我本来可以做完作业的，但是我的朋友来了 I could have finished my homework,but my friend came.
+2.  你本来可以赢的，但是你怎么能迟到呢 You could have won,but how can/could you be late?
+3.  他们本来可以早点到的，但是太堵车了 They could have got here early,but the traffic was  heavy.
+4.  他本来能通过考试的，但是他太粗心了He could have passed the exam,but he was too careless.
+5.  这电脑本来可以被修的 This computer could have been fixed .
+6.  他的车本来可以被卖的 His car could have been sold.
+7.  他本来可以被找到的 He could have been found.
+
+---
+
+**would have done**
+
+1.  我本来会告诉你的，但是你没问我 I would have told you,but you didn't ask me.
+2.  他本来会留下来的，可是你没说 He would have stayed ,but you didn't ask him to.
+3.  我本来会很开心的，可是你没在 I would have been happy,but you weren't here.
+
+---
+
+**should have done**
+
+1.  你当时应该听他的   You should have listened to him.
+2.  你应该做作业的     You should have done your homework.
+3.  你应该更小心点      You should have been more careful.
+4.  你应该告诉他的      You should have told him .
+5.  你不应该那么生气的  You shouldn't have been that angry .
+6.  他不应该买那么早的  He shouldn't have bought that so early .
+7.  你不应该对他喊的  You shouldn't have yelled at him .
+8.  你不应该吃那么多的  You shouldn't have eaten so much.
+
+
+---
+
+**needn't have done**
+
+1.  我本来不需要买这么多的  I needn't have bought so much.
+2.  你本来不需要向他道歉的 You needn't have apologized to him.
+3.  他本来不需要离开的 He  needn't  have left .
+4.  你本来不需要告诉他的 You needn't have told him.
+5.  我的电脑本来不需要被修的 My computer needn't have been fixed .
+
+---
+
+**other**
+1.  他会是谁呢  Who can/could/may/might he be?
+2.  他肯定是个老师 He must be a teacher.
+3.  他肯定不是老师 He can't/couldn't be a teacher.
+4.  他可能不是老师 He may/might not be a teacher.
+5.  他可能是个老师 He could/may/might be a teacher.
+6.  他会在等谁呢 Who can/could/may/might he be waiting for?
+7.  他肯定在等我们 He must be waiting for us.
+8.  他肯定没等我们 He can't/couldn't be waiting for us.
+9.  他可能没在等我们 He may/might not be waiting for us.
+10. 他可能在等我们 He could/may/might be waiting for us.
+
+
+
+
+
+
+
+
+
+
+
+### 情态动词的比较
+
+**表推测时的差异**
+
+>中文意思中包含[可能]意思的推测可以用can/could/may/might
+
+* can't/couldn't表示不可能
+* may not/might not 表示可能不
+* 可能性大小比较:could>can>may>might
+
+|            |                     |     |
+| ---------- | ------------------- | --- |
+| 肯定句     | could/may/might     | 3   |
+| 一般疑问句 | can/could/might     | 3   |
+| 特殊疑问句 | can/could/may/might | 4   |
+| 否定句     | can/could/may/might | 4   |
+
+**表请求建议/允许/许可时的差异**
+
+>表请求建议/允许/许可的时候,可以用will/would/can/could/may/might
+
+* 注意,can/may的使用限制是在表推测的情况下
+* 不表推测的时候,can可以用于肯定句,may也可以用于一般疑问句
+
+
+
+|        |                       |                          |                      |
+| ------ | --------------------- | ------------------------ | -------------------- |
+|        | 请求建议              | 许可                     | 允许                 |
+| 疑问句 | 第二人称 (will/would) | 第一二三人称 (can/could) | 第一人称 (may/might) |
+| 陈述句 |                       | 第一二三人称 (can/could) | 第二三人称 (may)     |
+
+
+
+
+
+### 检测
+
+1. 你怎么能这么说呢 How can/could you say this?
+2. 我应该怎么办 What should I do?
+3. 他们一定在看电视  They must be watching TV.
+4. 我能(可以)为你做什么呢 What can/could/may/might I do  for you?
+5. 他们一定在家    They must be at home.
+6. 他会是谁呢 Who can/could/may/might he be?
+7. 你敢告诉他吗 Dare you tell him?/Do you dare to tell him?
+8. 我该说什么呢 What should I say?
+9.  我们一定得告诉他吗 Must we tell him?/Do we have to tell him?
+10. 你怎么敢这么说 How dare you say this?/How do you dare to say this?
+
+---
+
+11. (它)会是谁呢 Who can/could/may/might  it be?
+12. 你能把窗户关一下吗 Can/Could/Will/Would you close the window?
+13. 你能跑多快 How fast can you run?
+14. 他一定有很多钱 He must have a lot of monay./He must be rich.
+15. 他会是对的吗 Can /Could/Might he be right?
+16. 你敢一个人去北京吗 Dare you go to BeiJing alone?/Do you dare to go to BeiJing alone?
+17. 这车需要洗吗 Does this car need to be washed?/Does this car need washing?
+18. 他会怎么跟她说这件事呢 How can/could/may/might/will he tell her this thing?
+19. 你想点什么 What  would you like to have?
+20. 我想点鸭子 I would like to have a duck.
+
+---
+
+21. 他会在干什么呢 What can/could/may/might he be doing?
+22. 你为什么不告诉他呢 Why can't/couldn't you tell him?
+23. 这会是什么呢 What can/could/might/may it be?
+24. 你能回避一下吗 Can/Could/Will/Would you give me a  minute? 
+25. 他必须去北京吗 Must he go to BeiJing?/Does he have  to go to BeiJing?
+26. 那个高个子男人会是谁呢 Who can/could/may/might that tall men be?
+27. 这辆车会多少钱呢 How much money can/could/may/might this car be?
+28. 他应该交什么样的朋友 What kind of friends should he make?
+29. 我该什么时候给你打电话呢 When should I call you?
+30. 你一定得走吗 Must you go?/Do you have to  go?
+
+---
+
+31. 我为什么看不见他 Why can't I see him? (表能力)
+32. 我为什么不能见他 Why can't/couldn't/may not/might not I see him? 
+33. 我怎么能从这里到天安门 How can I get to Tian An Men from here?
+34. 你会开车吗 Can you drive?
+35. 你能开会儿车吗 Will/Would/Can/Could you drive for a while?
+36. 你为什么学不好英语 Why can't you learn English well?
+37. 我在哪里能找到他 Where can I find him?
+38. 你什么时候才能告诉我 When can/could/will/would you tell me?
+39. 这会是真的吗 Can/Could/Might this be true?
+
