@@ -7,7 +7,7 @@ tags:
 toc: true 
 ---
 
-![虚拟语气](/img/虚拟语气.png)
+![虚拟语气](/img/xmind-png/虚拟语气.png)
 
 
 ### 主从句都相反
