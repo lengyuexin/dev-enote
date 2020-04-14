@@ -7,18 +7,18 @@ tags:
 toc: true 
 ---
 
-![词性](/img/xmind-png/词性.png)
+
 
 ### 连词
 
 
-|                                 |                                                                |     |
-| ------------------------------- | -------------------------------------------------------------- | --- |
+|                                 |                                                                |
+| ------------------------------- | -------------------------------------------------------------- |
 | neither...nor... 两者都不       | 我和他都不想见你 Neither I nor he  wants to see you.           |
 | either...or 要么...要么         | 你要么选择这个要么那个You choose either this one or  that one. |
 | not only...but also... 不仅而且 | 不仅我，他也想见你  Not only I,but also he  wants to see you.  |
 | as well as 和...一样            | 他和我一样想见你 He as well as I wants to see you.             |
-| and 和                          | Tom and I go to school toghter.                                |
+| and 和                          | Tom and I go to school together.                               |
 | both...and 两者都               | 我的朋友和我都去了北京  Both my friend and I went to BeiJing.  |
 
 
@@ -169,7 +169,7 @@ toc: true
 | 江河海洋与群山 | 长江,泰晤士河,太平洋,阿尔卑斯山...                               |
 | 沙戈群岛海峡湾 | 撒哈拉大沙漠,戈壁,菲律宾群岛,台湾海峡,波斯湾...                  |
 | 阶级党派朝时名 | 工人阶级，民主党，宋朝，石器时代...                              |
-| 家族民族与报刊 | 史密斯一家，中华民族，人民日报...                    |
+| 家族民族与报刊 | 史密斯一家，中华民族，人民日报...                                |
 | 厂矿机关农历节 | 钢铁厂，教育部，春节...                                          |
 | 天体组织会议通 | 地球，月亮，共青团，万隆会议，船，飞机，快车等交通工具命名       |
 | 习语特指独有词 | in the moring,the book on the desk is mine，独一无二的存在(太阳) |
@@ -180,7 +180,13 @@ toc: true
 
 * 单湖不加冠词，多湖加;单个山不加，xx峰不加
 * the+姓氏复数表示全家人，the+姓氏单数表示同一姓氏几个人中的某一个人
-* 天体:有球无星，星星不加冠词
+* 天体:有球无星，行星不加冠词
+  * 太阳--恒星 the sun
+  * 地球--行星 (the) Earth
+    * 与日月连用或特指时加the
+    * 作为土壤，泥土等物质名词，泛指时不加the
+  * 月球--卫星 the moon
+  * 火星--行星 Mars
 * the+形容词表示一类人 the old 老人
 
 
@@ -278,3 +284,10 @@ toc: true
 17. please,delight,pleasant(令人愉快的)
 18. annoy,upset 心烦
 19. amuse,entertain 娱乐
+
+
+### 思维导图
+
+![词性](/img/xmind-png/词性.png)
+![代词](/img/xmind-png/代词.png)
+![冠词](/img/xmind-png/冠词.png)

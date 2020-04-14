@@ -7,7 +7,8 @@ tags:
 toc: true 
 ---
 
-![虚拟语气](/img/xmind-png/虚拟语气.png)
+
+> 虚拟语气用于描述与实际相反或并非真实的情况。
 
 
 ### 主从句都相反
@@ -120,7 +121,7 @@ toc: true
 
   **使用would rather 宁愿**
 
-  > 使用would rather的时候，将来时的从句变化和现在时的从句变化一致，都是did/were
+  > 使用would rather的时候，现在或将来使用过去式did/were
 
 1. 我宁愿你现在给我钱 I would rather you gave me money now.
 2. 我宁愿你已经走了 I would rather you had left.
@@ -159,20 +160,6 @@ toc: true
 
 
 
-### 错综时间句
-
-> 主句和从句的时间不一致，从句是过去，主句是现在或将来 
-
-* 特例 if I were you (从句现在/主句将来)
-
-
-1. 如果你当初听了我的建议，现在就不会后悔 If you had taken my advice ,you wouldn't regret now.
-2. 如果我早晨出门时带了雨衣，现在就不会湿了 If I had taken the  raincoat this moring,I wouldn't be wet now . 
-3. 如果我5年前遇到了她，她现在应该是我太太了 If I had met her  5 years ago,she might be my wife now.
-4. 如果我昨天复习了功课，我现在就能答出老师问的问题了 If I had reviewed the lesson yesterday,I could answer the problem the teacher asked.
-5. 如果当初我在学校学习再努力些，我现在就会有一间很舒服的办公室了 If I had studied harder at school,I would have a comfortable office now.
-6. 如果昨天下雨了，现在地面就会是湿的 If it had rained yesterday,the ground would be wet now.
-
 
 
 ### 名词性从句的虚拟
@@ -201,11 +188,11 @@ toc: true
 
 * 两个命令 order command
 * 三个建议 advice suggestion proposal
-* 五个要求 demand request desire ask
+* 五个要求 demand  requirement  request desire ask
 
 **特例**
 
-* suggest/suggestion 表暗示的时候，不用虚拟
+* suggest/suggestion 表暗示、表明的时候，不用虚拟
 * insist 表坚持说的时候，不用虚拟
 
 
@@ -259,8 +246,27 @@ toc: true
 8. 怪不得他不想来  It's no wonder that he  shouldn't want to come .
 9.  我们该睡觉了  It's (about/high)time that we  should  go to bed.
  	
+
+
+
+### 错综时间句
+
+> 主句和从句的时间不一致，从句是过去，主句是现在或将来 
+
+* 特例 if I were you (从句现在/主句将来)
+
+
+1. 如果你当初听了我的建议，现在就不会后悔 If you had taken my advice ,you wouldn't regret now.
+2. 如果我早晨出门时带了雨衣，现在就不会湿了 If I had taken the  raincoat this moring,I wouldn't be wet now . 
+3. 如果我5年前遇到了她，她现在应该是我太太了 If I had met her  5 years ago,she might be my wife now.
+4. 如果我昨天复习了功课，我现在就能答出老师问的问题了 If I had reviewed the lesson yesterday,I could answer the problem the teacher asked.
+5. 如果当初我在学校学习再努力些，我现在就会有一间很舒服的办公室了 If I had studied harder at school,I would have a comfortable office now.
+6. 如果昨天下雨了，现在地面就会是湿的 If it had rained yesterday,the ground would be wet now.
+
+
 	
 		
 
+### 思维导图
 
-
+![虚拟语气](/img/xmind-png/虚拟语气.png)

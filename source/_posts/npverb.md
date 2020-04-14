@@ -7,7 +7,7 @@ tags:
 toc: true 
 ---
 
-![非谓语动词](/img/xmind-png/非谓语动词.png)
+
 
 ### 构成
 
@@ -264,3 +264,8 @@ toc: true
 19. 他进来了,后面跟着他的女儿	He came in, followed by his daughter.
 20. 他们站在那里，看着比赛	They are standing there, watching games.
 
+
+
+### 思维导图
+
+![非谓语动词](/img/xmind-png/非谓语动词.png)

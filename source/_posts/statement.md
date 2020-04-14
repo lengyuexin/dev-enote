@@ -7,7 +7,7 @@ tags:
 toc: true 
 ---
 
-![陈述句](/img/xmind-png/陈述句.png)
+
 
 
 
@@ -340,7 +340,7 @@ toc: true
 
 1. 屋里有多少人 How many people are there in the room?
 2. 杯子里有多少水 How much water is there in the cup?
-3. 这两者之间有不同吗（difference）Are there any  differences between these two?
+3. 这两者之间有不同吗 Are there any  differences between these two?
 4. 这次会有不同吗 Are there going to be any differences this time?
 
 
@@ -404,11 +404,10 @@ toc: true
 
 **what if**
 
-* 表假设:如果...怎么办 ，接续陈述句(一般现在时)或虚拟(一般过去时/should do...)
+* 表假设:如果...怎么办 ，接续一般现在时或虚拟
 
-1. 如果他走了怎么办 What if he leaves?
-2. 如果他来了呢 What if he came?
-3. 如果你失败了呢 What if you should fail?
+1. 如果他走了怎么办 What if he leaves? 一般现在时
+2. 如果他来了呢 What if he came? 虚拟
  
 
 
@@ -441,8 +440,8 @@ toc: true
 | 物体上方穿过                                | over                  | 他跳过了这堵墙 He jumped over the wall.                                           |
 | 物体旁边穿过                                | past/by               | 他从我身旁经过 He went past/by me.                                                |
 | 介词,代替                                   | instead of            | 我没给他钱而是给了他建议 I gave him advice instead of money.                      |
-| 副词,代替                                   | instead               | 他没出门而是待在了家 He didn't go out ,he stayed at home instead.                 |
-| 根据                                        | according to          | 根据他的表情来看，他失败了 he failed according to his look.                       |
+| 副词,反而，替代                             | instead               | 他没出门而是待在了家 He didn't go out ,he stayed at home instead.                 |
+| 根据                                        | according to          | 根据他的表情来看，他失败了 He failed according to his look.                       |
 | 以xx为基础                                  | based on              | 从他的反应来看，他不知道这件事 He doesn't know this thing based on  his reaction. |
 | 除了...还有                                 | besides               | 除了那个，我还有更多的玩具 I have more toys besides that one.                     |
 | 除了...之外,不再有                          | except                | 除了Tom，所有人都去了北京 Everyone  went to BeiJing except tom.                   |
@@ -490,3 +489,10 @@ toc: true
 12. 往东走200米You go to the east (名词用法) for 200 meters.
 
  
+
+
+### 思维导图
+
+![陈述句](/img/xmind-png/陈述句.png)
+![高频扩充](/img/xmind-png/高频扩充.png)
+![介词扩充](/img/xmind-png/介词扩充.png)

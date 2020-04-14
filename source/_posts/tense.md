@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-![时态和疑问句](/img/xmind-png/时态和疑问句.png)
+
 
 ### 时态构成
 
@@ -403,3 +403,8 @@ toc: true
 16. 你喝了多少水? How much water did you drink?
 17. 你多喜欢他? How much do you like him?
 18. 你的婚礼怎么样? How was your wedding?
+
+
+### 思维导图
+
+![时态和疑问句](/img/xmind-png/时态和疑问句.png)

@@ -9,7 +9,7 @@ toc: true
 
 
 
-![被动语态](/img/xmind-png/被动语态.png)
+
 
 ### 核心语法
 
@@ -183,3 +183,6 @@ toc: true
 
 
 
+### 思维导图
+
+![被动语态](/img/xmind-png/被动语态.png)

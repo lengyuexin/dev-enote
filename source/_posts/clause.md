@@ -8,9 +8,7 @@ toc: true
 ---
 
 <!-- ![从句](/img/xmind-png/从句.png) -->
-![名词性从句](/img/xmind-png/名词性从句.png)
-![定语从句](/img/xmind-png/定语从句.png)
-![状语从句](/img/xmind-png/状语从句.png)
+
 
 
 
@@ -568,3 +566,9 @@ toc: true
 
 
 
+
+## 思维导图
+
+![名词性从句](/img/xmind-png/名词性从句.png)
+![定语从句](/img/xmind-png/定语从句.png)
+![状语从句](/img/xmind-png/状语从句.png)

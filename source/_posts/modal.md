@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-![情态动词](/img/xmind-png/情态动词.png)
+
 
 > 情态动词也是时表词，用于帮助动词表达主语的情感和态度,没有人称变化
 
@@ -107,7 +107,7 @@ toc: true
 * can可用于肯定句的两种特殊情况:理论上不可能,但实际可能 /can+only 存在唯一可能 
 
 1. 经验丰富的老师也有可能出错 Experienced teachers can make mistakes.
-2. 只能是我的老师        It can only be my teacher. 
+2. 他只能是我的老师        He can only be my teacher. 
 
 
 
@@ -178,14 +178,14 @@ toc: true
 
 **例句:表倾向性**
 
-> 其实也可用will,但和表将来差别不大,would的存在侧重已知之前情况,在此基础上得出的结论
+>  will表现在的倾向性,would的存在侧重已知之前情况,在此基础上得出的结论
 
-* 他会生气的 He would be angry.(他爱干净,但是衣服被弄脏。在此基础上得出的结论:他会生气)
-* 他会生气的 He will be angry.(只是说他会生气,和表将来差别不大)
-* 你黄头发好看 You would look better with yellow hair.  (通过过去习惯,推测现在的倾向性)
-* 他不会告诉你的 He wouldn't tell you.(通过过去习惯,推测现在的倾向性)
-* 他过去经常打篮球 He would play basketball ofen/a lot.(过去的习惯,同be used to do)
-* 我之前常常跑步 I would run often/a lot.(过去的习惯,同be used to do)
+* 他会生气的 He would be angry.
+* 他会生气的 He will be angry.
+* 你黄头发好看 You would look better with yellow hair.  
+* 他不会告诉你的 He wouldn't tell you.
+* 我之前常常跑步 I would run often.
+* 我常常跑步 I will run often.
 
 
 
@@ -249,8 +249,8 @@ toc: true
 
 1. must 表主动,have to 表被动 
 2. must可以表示推测,mustn't 和have to 不可以
-3. 对must的否定回答,要用not have to 或not need to
-4. have to不属于情态动词
+3. have to不属于情态动词
+4. 对must的否定回答,要用not have to 或 needn't
 
 
 **例句:主动被动**
@@ -263,6 +263,7 @@ toc: true
 * 我们一定不能只考虑我们自己 We mustn't only think of ourselves.
 * 你就非得弄出这么大声音吗 Do you have to make so much  noise?/Must you make so much noise?
 * 你为什么非要打断我 Why do you have to interrupt me?Why must you interrupt	me?
+* Must I go to school? No, you don't have to/No,you  needn't.
 
 	
 
@@ -523,7 +524,7 @@ toc: true
 
 * can't/couldn't表示不可能
 * may not/might not 表示可能不
-* 可能性大小比较:could>can>may>might
+
 
 |            |                     |     |
 | ---------- | ------------------- | --- |
@@ -602,3 +603,7 @@ toc: true
 38. 你什么时候才能告诉我 When can/could/will/would you tell me?
 39. 这会是真的吗 Can/Could/Might this be true?
 
+
+### 思维导图
+
+![情态动词](/img/xmind-png/情态动词.png)

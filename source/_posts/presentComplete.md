@@ -10,11 +10,21 @@ toc: true
 
 
 
-![现在完成时](/img/xmind-png/现在完成时.png)
+
 
 ### 基本结构
 
+
 > 从过去开始一直延续到现在的时间段,结构为have/has+done
+
+**区分have been to/have gone to/ have been in**
+
+||||
+|--|--|--|
+|结构|含义|例句|
+| have been to  |去又回,强调往返| I have been to America.(我去过美国)|
+|have gone to|去,强调去这个动作,也许还在路上|I have gone to America.(我去美国了)|
+|have been in|一直停留| I have been in America for 2 years.(我在美国待两年了)|
 
 ### 特点
 
@@ -22,7 +32,9 @@ toc: true
 * 现在完成时强调完成，对之后有影响
 * 一般过去时只是简单的叙述。
 * 常常和[已经],[还],[刚刚]等词语连用(already,yet,just)
-
+* 对时间段的提问用how long (since),回答用for或since.
+* 动词要用可延续性谓语动词或系动词
+* 使用when提问的多是时间点,一般过去时
 
 **示例**
 
@@ -37,19 +49,14 @@ toc: true
 * 我没起床              --纯叙述
 * 我还没起床            --等我起床后再出去玩
 
-### 时间段
 
-* 对时间段的提问用how long (since),回答用for或since.
-* 动词要用可延续性谓语动词或系动词
-* 使用when提问的多是时间点,一般过去时
 
-**动词划分**
 
-* 动词分为谓语动词和系动词两大类
-* 谓语动词分为可延续性和不可延续性两类
-* 系动词包含be动词和其他系动词(如感官系动词)
+
+
 
 ### 不可延续动词的转换
+
 
 |||
 |--|--|
@@ -72,6 +79,14 @@ toc: true
 |catch a cold|have a cold|
 |hear|know|
 
+
+
+**动词划分**
+
+* 动词分为谓语动词和系动词两大类
+* 谓语动词分为可延续性和不可延续性两类
+* 系动词包含be动词和其他系动词(如感官系动词)
+
 ### 不可转换的非延续性动词
 
 > 并不是所有的非延续性动词都可以转换,不可转换的(如find,eat,tell,fire),提问多久时使用如下结构
@@ -81,15 +96,10 @@ toc: true
   * 可转换的非延续性动词,也可用这种结构
 
 
-### 区分have been to/have gone to/ have been in
 
 
-||||
-|--|--|--|
-|结构|含义|例句|
-| have been to  |去又回,强调往返| I have been to America.(我去过美国)|
-|have gone to|去,强调去这个动作,也许还在路上|I have gone to America.(我去美国了)|
-|have been in|一直停留| I have been in America for 2 years.(我在美国待两年了)|
+
+
 
 
 
@@ -126,3 +136,8 @@ toc: true
 
 27. 他来两个小时了 It has been  two hours since he came here./He has been here for two hours. 
 28. 他回来两个小时了 It has been  two hours since he came back./He has been back for two hours. 
+
+
+### 思维导图
+
+![现在完成时](/img/xmind-png/现在完成时.png)
