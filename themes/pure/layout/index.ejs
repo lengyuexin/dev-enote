@@ -12,10 +12,22 @@
       function changeMusic() {
         var musicList = ['All the Places', 'Dark Side', 'Dream It Possible', 'I Need You', 'Miracle', 'Such a Fool']
         var index = parseInt(Math.random() * 6)
-        return `https://lengyuexin.github.io/enote-song/music/${musicList[index]}.m4a`
+        return `http://lengyuexin-enote.gitee.io/song/music/${musicList[index]}.m4a`
       }
 
-   
+  var $btn = document.getElementById("song-switch");
+  var $audio = document.getElementById("enote-music-play");
+  var $download = document.getElementById("download");
+
+  $download.href=$enoteMusicPlay.src
+ $download.download=$enoteMusicPlay.src.split("/").pop()
+    $btn.onclick=function(){
+    if($audio.paused){
+          $audio.play()
+      }else{
+        $audio.pause()
+      }
+    }
 
     
   </script>
