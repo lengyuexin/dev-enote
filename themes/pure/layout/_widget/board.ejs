@@ -11,8 +11,9 @@
 <!--
 <br>
  <a href="javascript:void(0);" id="song-switch" style="font-size:16px;margin-right:4px;"  >on/off</a>  
- <a href="#" id="download" style="font-size:16px;"  >download-music</a> 
- -->
+
+ <a href="#" id="download" style="font-size:16px;"  >download-music</a> -->
+
 
 </div>
 
@@ -20,27 +21,27 @@
 
 
 <script>
-  var $els = document.getElementById("enote-language-switch");
+  // var $els = document.getElementById("enote-language-switch");
 
  
  
 
-  $els.onchange = function (e) {
+  // $els.onchange = function (e) {
 
-    e = e || window.event;
+  //   e = e || window.event;
 
-    if (e && e.target) {
-      var link = e.target.value;
+  //   if (e && e.target) {
+  //     var link = e.target.value;
 
-      if (link === "zh-cn") {
-        window.location.href = `https://lengyuexin.github.io`
-      } else if (link === "jap") {
-        window.location.href = `https://lengyuexin.github.io/enote-ja`
-      } else if (link === "en") {
-        window.location.href = `https://lengyuexin.github.io/enote-en`
-      }
-    }
+  //     if (link === "zh-cn") {
+  //       window.location.href = `https://lengyuexin.github.io`
+  //     } else if (link === "jap") {
+  //       window.location.href = `https://lengyuexin.github.io/enote-ja`
+  //     } else if (link === "en") {
+  //       window.location.href = `https://lengyuexin.github.io/enote-en`
+  //     }
+  //   }
 
-  }
+  // }
 
 </script>

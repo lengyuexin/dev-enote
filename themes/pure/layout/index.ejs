@@ -17,10 +17,10 @@
 
   var $btn = document.getElementById("song-switch");
   var $audio = document.getElementById("enote-music-play");
-  var $download = document.getElementById("download");
+  // var $download = document.getElementById("download");
 
-  $download.href=$enoteMusicPlay.src
- $download.download=$enoteMusicPlay.src.split("/").pop()
+  // $download.href=$enoteMusicPlay.src
+//  $download.download=$enoteMusicPlay.src.split("/").pop()
     $btn.onclick=function(){
     if($audio.paused){
           $audio.play()
