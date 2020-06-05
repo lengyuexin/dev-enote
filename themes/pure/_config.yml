@@ -187,7 +187,7 @@ profile:
   enabled: true # Whether to show profile bar
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author:  Gao Qian
+  author: LengYuexin
   author_title: Web Developer && Student
   author_description: 前端工程师
   location: BeiJing, China
