@@ -606,4 +606,10 @@ toc: true
 
 ### 思维导图
 
-![情态动词](/img/xmind-png/情态动词.png)
+<picture>
+  <source srcset="/img/xmind-png/情态动词.webp"> </source>
+  <img src="/img/xmind-png/情态动词.png" alt="情态动词">
+</picture>
+
+
+<!-- ![情态动词](/img/xmind-png/情态动词.png) -->

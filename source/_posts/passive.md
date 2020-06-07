@@ -185,4 +185,11 @@ toc: true
 
 ### 思维导图
 
-![被动语态](/img/xmind-png/被动语态.png)
+
+<picture>
+  <source srcset="/img/xmind-png/被动语态.webp"> </source>
+  <img src="/img/xmind-png/被动语态.png" alt="被动语态">
+</picture>
+
+
+<!-- ![被动语态](/img/xmind-png/被动语态.png) -->

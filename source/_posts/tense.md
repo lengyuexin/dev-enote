@@ -407,4 +407,10 @@ toc: true
 
 ### 思维导图
 
-![时态和疑问句](/img/xmind-png/时态和疑问句.png)
+<picture>
+  <source srcset="/img/xmind-png/时态和疑问句.webp"> </source>
+  <img src="/img/xmind-png/时态和疑问句.png" alt="时态和疑问句">
+</picture>
+
+
+<!-- ![时态和疑问句](/img/xmind-png/时态和疑问句.png) -->

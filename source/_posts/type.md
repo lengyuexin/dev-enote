@@ -288,6 +288,21 @@ toc: true
 
 ### 思维导图
 
-![词性](/img/xmind-png/词性.png)
+<picture>
+  <source srcset="/img/xmind-png/词性.webp"> </source>
+  <img src="/img/xmind-png/词性.png" alt="词性">
+</picture>
+
+<picture>
+  <source srcset="/img/xmind-png/代词.webp"> </source>
+  <img src="/img/xmind-png/代词.png" alt="代词">
+</picture>
+
+<picture>
+  <source srcset="/img/xmind-png/冠词.webp"> </source>
+  <img src="/img/xmind-png/冠词.png" alt="冠词">
+</picture>
+
+<!-- ![词性](/img/xmind-png/词性.png)
 ![代词](/img/xmind-png/代词.png)
-![冠词](/img/xmind-png/冠词.png)
+![冠词](/img/xmind-png/冠词.png) -->

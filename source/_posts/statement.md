@@ -493,6 +493,23 @@ toc: true
 
 ### 思维导图
 
-![陈述句](/img/xmind-png/陈述句.png)
+
+<picture>
+  <source srcset="/img/xmind-png/陈述句.webp"> </source>
+  <img src="/img/xmind-png/陈述句.png" alt="陈述句">
+</picture>
+
+<picture>
+  <source srcset="/img/xmind-png/高频扩充.webp"> </source>
+  <img src="/img/xmind-png/高频扩充.png" alt="高频扩充">
+</picture>
+
+<picture>
+  <source srcset="/img/xmind-png/介词扩充.webp"> </source>
+  <img src="/img/xmind-png/介词扩充.png" alt="介词扩充">
+</picture>
+
+
+<!-- ![陈述句](/img/xmind-png/陈述句.png)
 ![高频扩充](/img/xmind-png/高频扩充.png)
-![介词扩充](/img/xmind-png/介词扩充.png)
+![介词扩充](/img/xmind-png/介词扩充.png) -->

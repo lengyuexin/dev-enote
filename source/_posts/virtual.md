@@ -269,4 +269,11 @@ toc: true
 
 ### 思维导图
 
-![虚拟语气](/img/xmind-png/虚拟语气.png)
+
+<picture>
+  <source srcset="/img/xmind-png/虚拟语气.webp"> </source>
+  <img src="/img/xmind-png/虚拟语气.png" alt="虚拟语气">
+</picture>
+
+
+<!-- ![虚拟语气](/img/xmind-png/虚拟语气.png) -->

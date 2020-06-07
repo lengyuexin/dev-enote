@@ -569,6 +569,20 @@ toc: true
 
 ## 思维导图
 
-![名词性从句](/img/xmind-png/名词性从句.png)
+<picture>
+  <source srcset="/img/xmind-png/名词性从句.webp"> </source>
+  <img src="/img/xmind-png/名词性从句.png" alt="名词性从句">
+</picture>
+
+<picture>
+  <source srcset="/img/xmind-png/定语从句.webp"> </source>
+  <img src="/img/xmind-png/定语从句.png" alt="定语从句">
+</picture>
+
+<picture>
+  <source srcset="/img/xmind-png/状语从句.webp"> </source>
+  <img src="/img/xmind-png/状语从句.png" alt="状语从句">
+</picture>
+<!-- ![名词性从句]()
 ![定语从句](/img/xmind-png/定语从句.png)
-![状语从句](/img/xmind-png/状语从句.png)
+![状语从句](/img/xmind-png/状语从句.png) -->

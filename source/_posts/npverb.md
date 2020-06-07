@@ -268,4 +268,9 @@ toc: true
 
 ### 思维导图
 
-![非谓语动词](/img/xmind-png/非谓语动词.png)
+<picture>
+  <source srcset="/img/xmind-png/非谓语动词.webp"> </source>
+  <img src="/img/xmind-png/非谓语动词.png" alt="非谓语动词">
+</picture>
+
+<!-- ![非谓语动词](/img/xmind-png/非谓语动词.png) -->
