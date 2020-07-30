@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "push": "hexo deploy",
+    "push": "rm -rf .deploy_git && hexo deploy",
     "start": "hexo clean & hexo generate & hexo server"
   },
   "hexo": {
